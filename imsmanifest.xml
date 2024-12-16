@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- deki SAS Bogotá, Colombia -->
+<!-- based on templates from
+Adl's examples
+eXelearning packages
+scorm 1.2 rte book
+moodle 2.0 scorm faq-->
+<manifest identifier="deki_sco" 
+    xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" 
+    xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" 
+    xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd" > 
+    <metadata> 
+        <schema>ADL SCORM</schema> 
+        <schemaversion>1.2</schemaversion> 
+        <adlcp:location>imslrm.xml</adlcp:location>
+    </metadata> 
+    <organizations default="deki_org">  
+        <organization identifier="deki_org" structure="hierarchical">
+            <title>Menu</title>
+            <item identifier="deki_item" isvisible="true" identifierref="deki_resources">
+                <!-- score -->
+                <!-- <adlcp:masteryscore>80</adlcp:masteryscore> -->
+                <title>GEB: EYC · M I ·</title>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="deki_resources" type="webcontent" adlcp:scormtype="sco" href="index.html"> 
+            <file href="index.html"/>
+        </resource>
+    </resources>
+</manifest>

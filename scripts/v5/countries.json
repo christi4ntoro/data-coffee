@@ -1,0 +1,945 @@
+{
+    "AGO": {
+        "ranking":63,
+        "countrycode":"AGO",
+        "country":"Angola",
+        "coffeeWeight":"No data",
+        "exportAmount":1870896
+    },
+    
+    "Armenia": {
+        "ranking":51,
+        "countrycode":"ARM",
+        "country":"Armenia",
+        "coffeeWeight":"1420237",
+        "exportAmount":4869763
+    },
+    
+    "Aruba": {
+        "ranking":118,
+        "countrycode":"ABW",
+        "country":"Aruba",
+        "coffeeWeight":"1",
+        "exportAmount":20
+    },
+    
+    "Australia": {
+        "ranking":49,
+        "countrycode":"AUS",
+        "country":"Australia",
+        "coffeeWeight":"770195",
+        "exportAmount":5156274
+    },
+    
+    "Austria": {
+        "ranking":60,
+        "countrycode":"AUT",
+        "country":"Austria",
+        "coffeeWeight":"452931",
+        "exportAmount":2481110
+    },
+    
+    "Azerbaijan": {
+        "ranking":110,
+        "countrycode":"AZE",
+        "country":"Azerbaijan",
+        "coffeeWeight":"28",
+        "exportAmount":162
+    },
+    
+    "Bahrain": {
+        "ranking":90,
+        "countrycode":"BHR",
+        "country":"Bahrain",
+        "coffeeWeight":"10636",
+        "exportAmount":40122
+    },
+    
+    "Belgium": {
+        "ranking":18,
+        "countrycode":"BEL",
+        "country":"Belgium",
+        "coffeeWeight":"30978503",
+        "exportAmount":155472699
+    },
+    
+    "Belize": {
+        "ranking":104,
+        "countrycode":"BLZ",
+        "country":"Belize",
+        "coffeeWeight":"250",
+        "exportAmount":2200
+    },
+    
+    "Benin": {
+        "ranking":117,
+        "countrycode":"BEN",
+        "country":"Benin",
+        "coffeeWeight":"12",
+        "exportAmount":29
+    },
+    
+    "Bolivia": {
+        "ranking":38,
+        "countrycode":"BOL",
+        "country":"Bolivia",
+        "coffeeWeight":"1790830",
+        "exportAmount":11702382
+    },
+    
+    "Bosnia Herzegovina": {
+        "ranking":108,
+        "countrycode":"BIH",
+        "country":"Bosnia Herzegovina",
+        "coffeeWeight":"176",
+        "exportAmount":1223
+    },
+    
+    "Botswana": {
+        "ranking":111,
+        "countrycode":"BWA",
+        "country":"Botswana",
+        "coffeeWeight":"21",
+        "exportAmount":157
+    },
+    
+    "BRA":{
+        "ranking":1,
+        "countrycode":"BRA",
+        "country":"Brazil",
+        "coffeeWeight":"2116627207",
+        "exportAmount":7315353936
+    },
+    
+    "Brunei Darussalam": {
+        "ranking":116,
+        "countrycode":"BRN",
+        "country":"Brunei Darussalam",
+        "coffeeWeight":"3",
+        "exportAmount":45
+    },
+    
+    "Bulgaria": {
+        "ranking":72,
+        "countrycode":"BGR",
+        "country":"Bulgaria",
+        "coffeeWeight":"160082",
+        "exportAmount":695871
+    },
+    
+    "Burkina Faso": {
+        "ranking":79,
+        "countrycode":"BFA",
+        "country":"Burkina Faso",
+        "coffeeWeight":"1975352",
+        "exportAmount":195373
+    },
+    
+    "Cabo Verde": {
+        "ranking":93,
+        "countrycode":"CPV",
+        "country":"Cabo Verde",
+        "coffeeWeight":"3020",
+        "exportAmount":25716
+    },
+    
+    "Cambodia": {
+        "ranking":99,
+        "countrycode":"KHM",
+        "country":"Cambodia",
+        "coffeeWeight":"766",
+        "exportAmount":9939
+    },
+    
+    "CAN": {
+        "ranking":26,
+        "countrycode":"CAN",
+        "country":"Canada",
+        "coffeeWeight":"9353293",
+        "exportAmount":46258130
+    },
+    
+    "Central African Rep.": {
+        "ranking":98,
+        "countrycode":"CAF",
+        "country":"Central African Rep.",
+        "coffeeWeight":"88325",
+        "exportAmount":18097
+    },
+    
+    "Chile": {
+        "ranking":75,
+        "countrycode":"CHL",
+        "country":"Chile",
+        "coffeeWeight":"",
+        "exportAmount":327676
+    },
+    
+    "China": {
+        "ranking":22,
+        "countrycode":"CHN",
+        "country":"China",
+        "coffeeWeight":"16584155",
+        "exportAmount":67949181
+    },
+    
+    "China, Hong Kong SAR": {
+        "ranking":46,
+        "countrycode":"HKG",
+        "country":"China, Hong Kong SAR",
+        "coffeeWeight":"1217523",
+        "exportAmount":7165726
+    },
+    
+    "China, Macao SAR": {
+        "ranking":101,
+        "countrycode":"MAC",
+        "country":"China, Macao SAR",
+        "coffeeWeight":"750",
+        "exportAmount":7553
+    },
+    
+    "Colombia": {
+        "ranking":2,
+        "countrycode":"COL",
+        "country":"Colombia",
+        "coffeeWeight":"575803535",
+        "exportAmount":2791949515
+    },
+    
+    "Costa Rica": {
+        "ranking":12,
+        "countrycode":"CRI",
+        "country":"Costa Rica",
+        "coffeeWeight":"60263330",
+        "exportAmount":346963208
+    },
+    
+    "Côte d'Ivoire": {
+        "ranking":23,
+        "countrycode":"CIV",
+        "country":"Côte d'Ivoire",
+        "coffeeWeight":"34013294",
+        "exportAmount":62029981
+    },
+    
+    "Croatia": {
+        "ranking":74,
+        "countrycode":"HRV",
+        "country":"Croatia",
+        "coffeeWeight":"35467",
+        "exportAmount":399851
+    },
+    
+    "Cyprus": {
+        "ranking":83,
+        "countrycode":"CYP",
+        "country":"Cyprus",
+        "coffeeWeight":"20200",
+        "exportAmount":102246
+    },
+    
+    "Czechia": {
+        "ranking":57,
+        "countrycode":"CZE",
+        "country":"Czechia",
+        "coffeeWeight":"284162",
+        "exportAmount":4207097
+    },
+    
+    "Denmark": {
+        "ranking":47,
+        "countrycode":"DNK",
+        "country":"Denmark",
+        "coffeeWeight":"644394",
+        "exportAmount":5782474
+    },
+    
+    "Dominica": {
+        "ranking":112,
+        "countrycode":"DMA",
+        "country":"Dominica",
+        "coffeeWeight":"15",
+        "exportAmount":154
+    },
+    
+    "Dominican Rep.": {
+        "ranking":56,
+        "countrycode":"DOM",
+        "country":"Dominican Rep.",
+        "coffeeWeight":"670366",
+        "exportAmount":4283210
+    },
+    
+    "Ecuador": {
+        "ranking":39,
+        "countrycode":"ECU",
+        "country":"Ecuador",
+        "coffeeWeight":"No data",
+        "exportAmount":11306557
+    },
+    
+    "Egypt": {
+        "ranking":92,
+        "countrycode":"EGY",
+        "country":"Egypt",
+        "coffeeWeight":"7985",
+        "exportAmount":30120
+    },
+    
+    "El Salvador": {
+        "ranking":19,
+        "countrycode":"SLV",
+        "country":"El Salvador",
+        "coffeeWeight":"28799413",
+        "exportAmount":145470531
+    },
+    
+    "Estonia": {
+        "ranking":33,
+        "countrycode":"EST",
+        "country":"Estonia",
+        "coffeeWeight":"5134859",
+        "exportAmount":21795716
+    },
+    
+    "Eswatini": {
+        "ranking":103,
+        "countrycode":"SWZ",
+        "country":"Eswatini",
+        "coffeeWeight":"3282",
+        "exportAmount":4885
+    },
+    
+    "Ethiopia": {
+        "ranking":4,
+        "countrycode":"ETH",
+        "country":"Ethiopia",
+        "coffeeWeight":"234881172",
+        "exportAmount":1218808317
+    },
+    
+    "Fiji": {
+        "ranking":114,
+        "countrycode":"FJI",
+        "country":"Fiji",
+        "coffeeWeight":"4",
+        "exportAmount":138
+    },
+    
+    "Finland": {
+        "ranking":55,
+        "countrycode":"FIN",
+        "country":"Finland",
+        "coffeeWeight":"1019941",
+        "exportAmount":4524708
+    },
+    
+    "France": {
+        "ranking":29,
+        "countrycode":"FRA",
+        "country":"France",
+        "coffeeWeight":"6550924",
+        "exportAmount":24095517
+    },
+    
+    "Gabon": {
+        "ranking":94,
+        "countrycode":"GAB",
+        "country":"Gabon",
+        "coffeeWeight":"17760",
+        "exportAmount":25569
+    },
+    
+    "Georgia": {
+        "ranking":70,
+        "countrycode":"GEO",
+        "country":"Georgia",
+        "coffeeWeight":"278712",
+        "exportAmount":792410
+    },
+    
+    "Germany": {
+        "ranking":8,
+        "countrycode":"DEU",
+        "country":"Germany",
+        "coffeeWeight":"198509101",
+        "exportAmount":836720510
+    },
+    
+    "Ghana": {
+        "ranking":86,
+        "countrycode":"GHA",
+        "country":"Ghana",
+        "coffeeWeight":"75133",
+        "exportAmount":65236
+    },
+    
+    "Greece": {
+        "ranking":48,
+        "countrycode":"GRC",
+        "country":"Greece",
+        "coffeeWeight":"",
+        "exportAmount":5646338
+    },
+    
+    "Guatemala": {
+        "ranking":6,
+        "countrycode":"GTM",
+        "country":"Guatemala",
+        "coffeeWeight":"182081916",
+        "exportAmount":946277667
+    },
+    
+    "Honduras": {
+        "ranking":3,
+        "countrycode":"HND",
+        "country":"Honduras",
+        "coffeeWeight":"340593259",
+        "exportAmount":1477445638
+    },
+    
+    "Hungary": {
+        "ranking":54,
+        "countrycode":"HUN",
+        "country":"Hungary",
+        "coffeeWeight":"5744198",
+        "exportAmount":4563216
+    },
+    
+    "Iceland": {
+        "ranking":95,
+        "countrycode":"ISL",
+        "country":"Iceland",
+        "coffeeWeight":"899",
+        "exportAmount":19398
+    },
+    
+    "India": {
+        "ranking":10,
+        "countrycode":"IND",
+        "country":"India",
+        "coffeeWeight":"231874379",
+        "exportAmount":741032680
+    },
+    
+    "Indonesia": {
+        "ranking":7,
+        "countrycode":"IDN",
+        "country":"Indonesia",
+        "coffeeWeight":"276242337",
+        "exportAmount":915793880
+    },
+    
+    "Ireland": {
+        "ranking":58,
+        "countrycode":"IRL",
+        "country":"Ireland",
+        "coffeeWeight":"479528",
+        "exportAmount":4155232
+    },
+    
+    "Israel": {
+        "ranking":84,
+        "countrycode":"ISR",
+        "country":"Israel",
+        "coffeeWeight":"21472",
+        "exportAmount":81000
+    },
+    
+    "Italy": {
+        "ranking":25,
+        "countrycode":"ITA",
+        "country":"Italy",
+        "coffeeWeight":"10112686",
+        "exportAmount":54754509
+    },
+    
+    "Jamaica": {
+        "ranking":28,
+        "countrycode":"JAM",
+        "country":"Jamaica",
+        "coffeeWeight":"750005",
+        "exportAmount":25186078
+    },
+    
+    "Japan": {
+        "ranking":64,
+        "countrycode":"JPN",
+        "country":"Japan",
+        "coffeeWeight":"287849",
+        "exportAmount":1448909
+    },
+    
+    "Jordan": {
+        "ranking":44,
+        "countrycode":"JOR",
+        "country":"Jordan",
+        "coffeeWeight":"2066041",
+        "exportAmount":7793677
+    },
+    
+    "Kazakhstan": {
+        "ranking":89,
+        "countrycode":"KAZ",
+        "country":"Kazakhstan",
+        "coffeeWeight":"2233",
+        "exportAmount":43553
+    },
+    
+    "Kenya": {
+        "ranking":16,
+        "countrycode":"KEN",
+        "country":"Kenya",
+        "coffeeWeight":"48689860",
+        "exportAmount":246413867
+    },
+    
+    "Kuwait": {
+        "ranking":65,
+        "countrycode":"KWT",
+        "country":"Kuwait",
+        "coffeeWeight":"338296",
+        "exportAmount":1339482
+    },
+    
+    "Lebanon": {
+        "ranking":59,
+        "countrycode":"LBN",
+        "country":"Lebanon",
+        "coffeeWeight":"759294",
+        "exportAmount":2864265
+    },
+    
+    "Lesotho": {
+        "ranking":106,
+        "countrycode":"LSO",
+        "country":"Lesotho",
+        "coffeeWeight":"33",
+        "exportAmount":1648
+    },
+    
+    "Liberia": {
+        "ranking":80,
+        "countrycode":"LBR",
+        "country":"Liberia",
+        "coffeeWeight":"2400",
+        "exportAmount":145000
+    },
+    
+    "Lithuania": {
+        "ranking":42,
+        "countrycode":"LTU",
+        "country":"Lithuania",
+        "coffeeWeight":"1478175",
+        "exportAmount":8757005
+    },
+    
+    "Luxembourg": {
+        "ranking":69,
+        "countrycode":"LUX",
+        "country":"Luxembourg",
+        "coffeeWeight":"109996",
+        "exportAmount":930319
+    },
+    
+    "Madagascar": {
+        "ranking":78,
+        "countrycode":"MDG",
+        "country":"Madagascar",
+        "coffeeWeight":"60604",
+        "exportAmount":303485
+    },
+    
+    "Malawi": {
+        "ranking":71,
+        "countrycode":"MWI",
+        "country":"Malawi",
+        "coffeeWeight":"168831",
+        "exportAmount":714985
+    },
+    
+    "Malaysia": {
+        "ranking":40,
+        "countrycode":"MYS",
+        "country":"Malaysia",
+        "coffeeWeight":"No data",
+        "exportAmount":11099079
+    },
+    
+    "Malta": {
+        "ranking":109,
+        "countrycode":"MLT",
+        "country":"Malta",
+        "coffeeWeight":"98",
+        "exportAmount":836
+    },
+    
+    "Mexico": {
+        "ranking":13,
+        "countrycode":"MEX",
+        "country":"Mexico",
+        "coffeeWeight":"60622836",
+        "exportAmount":302803076
+    },
+    
+    "Montenegro": {
+        "ranking":113,
+        "countrycode":"MNE",
+        "country":"Montenegro",
+        "coffeeWeight":"22",
+        "exportAmount":154
+    },
+    
+    "Morocco": {
+        "ranking":91,
+        "countrycode":"MAR",
+        "country":"Morocco",
+        "coffeeWeight":"9397",
+        "exportAmount":38219
+    },
+    
+    "Mozambique": {
+        "ranking":88,
+        "countrycode":"MOZ",
+        "country":"Mozambique",
+        "coffeeWeight":"9067",
+        "exportAmount":56000
+    },
+    
+    "Myanmar": {
+        "ranking":41,
+        "countrycode":"MMR",
+        "country":"Myanmar",
+        "coffeeWeight":"1697534",
+        "exportAmount":9846539
+    },
+    
+    "Namibia": {
+        "ranking":100,
+        "countrycode":"NAM",
+        "country":"Namibia",
+        "coffeeWeight":"2726",
+        "exportAmount":8939
+    },
+    
+    "Netherlands": {
+        "ranking":14,
+        "countrycode":"NLD",
+        "country":"Netherlands",
+        "coffeeWeight":"75880643",
+        "exportAmount":294963319
+    },
+    
+    "New Zealand": {
+        "ranking":61,
+        "countrycode":"NZL",
+        "country":"New Zealand",
+        "coffeeWeight":"276661",
+        "exportAmount":2370653
+    },
+    
+    "Nicaragua": {
+        "ranking":11,
+        "countrycode":"NIC",
+        "country":"Nicaragua",
+        "coffeeWeight":"139511408",
+        "exportAmount":607053747
+    },
+    
+    "Nigeria": {
+        "ranking":85,
+        "countrycode":"NGA",
+        "country":"Nigeria",
+        "coffeeWeight":"52900",
+        "exportAmount":78741
+    },
+    
+    "North Macedonia": {
+        "ranking":102,
+        "countrycode":"MKD",
+        "country":"North Macedonia",
+        "coffeeWeight":"403",
+        "exportAmount":6921
+    },
+    
+    "Norway": {
+        "ranking":66,
+        "countrycode":"NOR",
+        "country":"Norway",
+        "coffeeWeight":"237309",
+        "exportAmount":1271129
+    },
+    
+    "Oman": {
+        "ranking":67,
+        "countrycode":"OMN",
+        "country":"Oman",
+        "coffeeWeight":"285965",
+        "exportAmount":1078739
+    },
+    
+    "Other Asia, nes": {
+        "ranking":50,
+        "countrycode":"S19",
+        "country":"Other Asia, nes",
+        "coffeeWeight":"505575",
+        "exportAmount":5087526
+    },
+    
+    "Panama": {
+        "ranking":76,
+        "countrycode":"PAN",
+        "country":"Panama",
+        "coffeeWeight":"51212",
+        "exportAmount":312908
+    },
+    
+    "Paraguay": {
+        "ranking":107,
+        "countrycode":"PRY",
+        "country":"Paraguay",
+        "coffeeWeight":"126",
+        "exportAmount":1359
+    },
+    
+    "Peru": {
+        "ranking":9,
+        "countrycode":"PER",
+        "country":"Peru",
+        "coffeeWeight":"204546848",
+        "exportAmount":827514034
+    },
+    
+    "Philippines": {
+        "ranking":73,
+        "countrycode":"PHL",
+        "country":"Philippines",
+        "coffeeWeight":"125332",
+        "exportAmount":472785
+    },
+    
+    "Poland": {
+        "ranking":35,
+        "countrycode":"POL",
+        "country":"Poland",
+        "coffeeWeight":"4137248",
+        "exportAmount":19119141
+    },
+    
+    "Portugal": {
+        "ranking":53,
+        "countrycode":"PRT",
+        "country":"Portugal",
+        "coffeeWeight":"1420257",
+        "exportAmount":4802355
+    },
+    
+    "Rep. of Moldova": {
+        "ranking":115,
+        "countrycode":"MDA",
+        "country":"Rep. of Moldova",
+        "coffeeWeight":"3",
+        "exportAmount":76
+    },
+    
+    "Romania": {
+        "ranking":77,
+        "countrycode":"ROU",
+        "country":"Romania",
+        "coffeeWeight":"60661",
+        "exportAmount":307519
+    },
+    
+    "Samoa": {
+        "ranking":105,
+        "countrycode":"WSM",
+        "country":"Samoa",
+        "coffeeWeight":"114",
+        "exportAmount":1791
+    },
+    
+    "Sao Tome and Principe": {
+        "ranking":97,
+        "countrycode":"STP",
+        "country":"Sao Tome and Principe",
+        "coffeeWeight":"1900",
+        "exportAmount":18726
+    },
+    
+    "Saudi Arabia": {
+        "ranking":37,
+        "countrycode":"SAU",
+        "country":"Saudi Arabia",
+        "coffeeWeight":"3232974",
+        "exportAmount":12800955
+    },
+    
+    "Senegal": {
+        "ranking":96,
+        "countrycode":"SEN",
+        "country":"Senegal",
+        "coffeeWeight":"6392",
+        "exportAmount":19238
+    },
+    
+    "Serbia": {
+        "ranking":82,
+        "countrycode":"SRB",
+        "country":"Serbia",
+        "coffeeWeight":"25731",
+        "exportAmount":104329
+    },
+    
+    "Singapore": {
+        "ranking":27,
+        "countrycode":"SGP",
+        "country":"Singapore",
+        "coffeeWeight":"4431682",
+        "exportAmount":25751146
+    },
+    
+    "Slovakia": {
+        "ranking":45,
+        "countrycode":"SVK",
+        "country":"Slovakia",
+        "coffeeWeight":"1210216",
+        "exportAmount":7633738
+    },
+    
+    "Slovenia": {
+        "ranking":31,
+        "countrycode":"SVN",
+        "country":"Slovenia",
+        "coffeeWeight":"6407466",
+        "exportAmount":23181456
+    },
+    
+    "South Africa": {
+        "ranking":52,
+        "countrycode":"ZAF",
+        "country":"South Africa",
+        "coffeeWeight":"855197",
+        "exportAmount":4842755
+    },
+    
+    "Spain": {
+        "ranking":20,
+        "countrycode":"ESP",
+        "country":"Spain",
+        "coffeeWeight":"35375290",
+        "exportAmount":102610922
+    },
+    
+    "Sri Lanka": {
+        "ranking":87,
+        "countrycode":"LKA",
+        "country":"Sri Lanka",
+        "coffeeWeight":"5196",
+        "exportAmount":56262
+    },
+    
+    "Sweden": {
+        "ranking":34,
+        "countrycode":"SWE",
+        "country":"Sweden",
+        "coffeeWeight":"4016492",
+        "exportAmount":20165008
+    },
+    
+    "Switzerland": {
+        "ranking":30,
+        "countrycode":"CHE",
+        "country":"Switzerland",
+        "coffeeWeight":"3597255",
+        "exportAmount":23990585
+    },
+    
+    "Thailand": {
+        "ranking":62,
+        "countrycode":"THA",
+        "country":"Thailand",
+        "coffeeWeight":"254843",
+        "exportAmount":2195950
+    },
+    
+    "Togo": {
+        "ranking":43,
+        "countrycode":"TGO",
+        "country":"Togo",
+        "coffeeWeight":"6509542",
+        "exportAmount":8177027
+    },
+    
+    "Türkiye": {
+        "ranking":36,
+        "countrycode":"TUR",
+        "country":"Türkiye",
+        "coffeeWeight":"4261458",
+        "exportAmount":18141534
+    },
+    
+    "Uganda": {
+        "ranking":5,
+        "countrycode":"UGA",
+        "country":"Uganda",
+        "coffeeWeight":"368721234",
+        "exportAmount":950623466
+    },
+    
+    "Ukraine": {
+        "ranking":68,
+        "countrycode":"UKR",
+        "country":"Ukraine",
+        "coffeeWeight":"110936",
+        "exportAmount":944286
+    },
+    
+    "United Arab Emirates": {
+        "ranking":21,
+        "countrycode":"ARE",
+        "country":"United Arab Emirates",
+        "coffeeWeight":"23314772",
+        "exportAmount":87949730
+    },
+    
+    "United Kingdom": {
+        "ranking":24,
+        "countrycode":"GBR",
+        "country":"United Kingdom",
+        "coffeeWeight":"19457296",
+        "exportAmount":57514306
+    },
+    
+    "United Rep. of Tanzania": {
+        "ranking":17,
+        "countrycode":"TZA",
+        "country":"United Rep. of Tanzania",
+        "coffeeWeight":"83798415",
+        "exportAmount":226783156
+    },
+    
+    "USA": {
+        "ranking":15,
+        "countrycode":"USA",
+        "country":"USA",
+        "coffeeWeight":"56260222",
+        "exportAmount":283715286
+    },
+    
+    "Zambia": {
+        "ranking":32,
+        "countrycode":"ZMB",
+        "country":"Zambia",
+        "coffeeWeight":"5631884",
+        "exportAmount":23114230
+    },
+    
+    "Zimbabwe": {
+        "ranking":81,
+        "countrycode":"ZWE",
+        "country":"Zimbabwe",
+        "coffeeWeight":"No data",
+        "exportAmount":124427
+    }
+}
