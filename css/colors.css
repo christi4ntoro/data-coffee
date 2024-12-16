@@ -1,0 +1,199 @@
+/*---THEMES---*/
+.bgSilver {
+  background-color: #0085b0;
+}
+
+.bgNothing {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+
+.bgvideo {
+  background-size: 100px;
+  background-image: url("../images/interfax/video-camera.svg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.bgWhite {
+  background-color: #fff !important;
+}
+
+.bgBlack {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+}
+
+.bgWhite80 {
+  background-color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.bgWhite70 {
+  background-color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.bgWhite50 {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.bgWhite30 {
+  background-color: rgba(255, 255, 255, 0.3) !important;
+}
+
+.bgWhite10 {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.bgCatalinaBlue {
+  background-color: #768141 !important;
+}
+
+.bgGreenYellow {
+  background-color: rgba(0, 133, 176, 0.2) !important;
+}
+
+.bgLemon {
+  background-color: #A6CF32 !important;
+}
+
+.bgGreenLight {
+  background-color: #029865 !important;
+}
+
+.bgFlushOrange {
+  background-color: #ff8303 !important;
+}
+
+.bgBlue {
+  background-color: #0085b0 !important;
+}
+
+.bgAstronaut {
+  background-color: #013D59 !important;
+}
+
+.bgScooter {
+  background-color: #2BA9CC !important;
+}
+
+.bgAqua {
+  background-color: #499b90 !important;
+}
+
+.bgGreen {
+  background-color: #028f5f !important;
+}
+
+.bgPurple {
+  background-color: #67439a !important;
+}
+
+.bgPurpleLight {
+  background-color: #9390b5 !important;
+}
+
+.bgSilver {
+  background-color: #889db7 !important;
+}
+
+.bgMint {
+  background-color: #54b1c4 !important;
+}
+
+.bgMintDark {
+  background-color: #009fa4 !important;
+}
+
+.bgYellow {
+  background-color: #fcbf60 !important;
+}
+
+.bgYellowDark {
+  background-color: #f3b41b !important;
+}
+
+.bgRed {
+  background-color: #f05a6e !important;
+}
+
+.bgGray {
+  background-color: #9d9d9c !important;
+}
+
+.bgGrayLight {
+  background-color: #dedede !important;
+}
+
+.bgGrayDark {
+  background-color: #54565a !important;
+}
+
+.txNormal {
+  color: #343e46;
+}
+
+.txWhite {
+  color: #fff;
+}
+
+.txCatalinaBlue {
+  color: #768141;
+}
+
+.txOrange {
+  color: #f8963e;
+}
+
+.txAstronaut {
+  color: #013D59;
+}
+
+.txBlue {
+  color: #0085b0;
+}
+
+.txAqua {
+  color: #499b90;
+}
+
+.txGreen {
+  color: #028f5f;
+}
+
+.txPurple {
+  color: #67439a;
+}
+
+.txMint {
+  color: #54b1c4;
+}
+
+.txMintDark {
+  color: #009fa4;
+}
+
+.bgTierra {
+  background-color: #E9B97F !important;
+}
+
+.bgAgua {
+  background-color: #60c7cc !important;
+}
+
+.bgViento {
+  background-color: #73bce8 !important;
+}
+
+.bgRayo {
+  background-color: #fbe08b !important;
+}
+
+.bgMontana {
+  background-color: #abc75c !important;
+}
+
+.bgQuimico {
+  background-color: #b3acd5 !important;
+}
+
+/*# sourceMappingURL=colors.css.map */

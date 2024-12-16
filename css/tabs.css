@@ -1,0 +1,167 @@
+/* TABS CSS*/
+main.tab-top,
+main.tab-left {
+  padding: 0 3em;
+  margin: 0 auto;
+}
+
+main.tab-left {
+    position: relative;
+    min-height: 14em;
+}
+
+.tab-top section {
+    display: none;
+    padding: 1em;
+    border-top: 2px solid #f57b2e;
+    text-align: left;
+    background-color: #fff;
+    margin-bottom: 1em;
+}
+
+.tab-left section {
+    display: none;
+    padding: 1em;
+    border-left: 2px solid #8ab732;
+    text-align: left;
+    background-color: #fff;
+    position: absolute;
+    left: 6.6em;
+    top: 0;
+    margin-right: 3em;
+    min-height: 12em;
+    margin-bottom: 2em;
+}
+
+.tab-top input,
+.tab-left input {
+  display: none;
+}
+
+.tab-top label,
+.tab-left label {
+    display: inline-flex;
+    margin: 0;
+    padding: .75em 1.5em 0.4em;
+    font-weight: 900;
+    color: #f57b2e;
+    border: 1px solid transparent;
+    text-align: center;
+    border-radius: 2em 2em 0 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    transition: all .2s ease;
+}
+.tab-top.m224 label {
+    padding: .5em 1em 0.4em !important;
+}
+
+.tab-left label {
+    display: block;
+    color: #8ab732;
+    border-radius: 2em 0 0 2em;
+    width: .5em;
+    height: 1.5em;
+    margin-bottom: .25em;
+}
+
+.tab-top label:hover,
+.tab-left label:hover {
+    opacity: .8;
+    cursor: pointer;
+}
+
+.tab-top input:checked + label,
+.tab-left input:checked + label {
+    color: #fff;
+    border: 2px solid #f57b2e;
+    text-align: center;
+    background-color: #f57b2e;
+}
+.tab-left input:checked + label {
+    border: 2px solid #8ab732;
+    background-color: #8ab732;
+}
+
+.tab-top h4 {
+    color: #f57b2e;
+}
+
+.tab-left h4 {
+    color: #8ab732;
+}
+
+.tab-top #tab1:checked ~ #content1,
+.tab-top #tab2:checked ~ #content2,
+.tab-top #tab3:checked ~ #content3,
+.tab-top #tab4:checked ~ #content4,
+.tab-top #tab5:checked ~ #content5,
+.tab-top #tab6:checked ~ #content6,
+.tab-top #tab7:checked ~ #content7,
+.tab-top #tab8:checked ~ #content8,
+.tab-top #tab9:checked ~ #content9,
+.tab-top #tab10:checked ~ #content10,
+.tab-top #tab11:checked ~ #content11,
+.tab-top #tab12:checked ~ #content12,
+.tab-top #tab13:checked ~ #content13,
+.tab-top #tab14:checked ~ #content14,
+.tab-top #tab15:checked ~ #content15,
+.tab-top #tab16:checked ~ #content16,
+.tab-top #tab17:checked ~ #content17,
+.tab-top #tab18:checked ~ #content18,
+.tab-top #tab19:checked ~ #content19,
+.tab-top #tab20:checked ~ #content20 {
+    display: block;
+}
+
+.tab-left #tab1:checked ~ #content1,
+.tab-left #tab2:checked ~ #content2,
+.tab-left #tab3:checked ~ #content3,
+.tab-left #tab4:checked ~ #content4,
+.tab-left #tab5:checked ~ #content5,
+.tab-left #tab6:checked ~ #content6,
+.tab-left #tab7:checked ~ #content7,
+.tab-left #tab8:checked ~ #content8,
+.tab-left #tab9:checked ~ #content9,
+.tab-left #tab10:checked ~ #content10 {
+    display: block;
+}
+
+.tab-top .box,
+.tab-left .box {
+    padding: 0rem 2rem 1rem;
+}
+
+/* For responsive design
+.tab-top label:before {
+  font-family: fontawesome;
+  font-weight: normal;
+  margin-right: 10px;
+} 
+.tab-top label[for*="1"]:before {
+  content: "\f1cb";
+}
+.tab-top label[for*="2"]:before {
+  content: "\f17d";
+}
+.tab-top label[for*="3"]:before {
+  content: "\f16b";
+}
+.tab-top label[for*="4"]:before {
+  content: "\f1a9";
+}
+.tab-top label[for*="5"]:before {
+  content: "\f16b";
+}
+.tab-top label[for*="6"]:before {
+  content: "\f1a9";
+}
+@media screen and (max-width: 959px) {
+    .tab-top label {
+        font-size: 0;
+        padding: 15px;
+    }
+    .tab-top label:before {
+        margin: 0;
+        font-size: 18px;
+    }
+}*/

@@ -1,0 +1,161 @@
+/* FONTS */
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
+body {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 400;
+  font-size: 1.15em;
+  line-height: 1.35em;
+  letter-spacing: normal;
+  color: #343e46; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+  margin: 0 0 .8em; }
+
+ul, ol, li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+
+/* ALIGN */
+.txLeft {
+  text-align: left !important; }
+
+.txRight {
+  text-align: right !important; }
+
+.txCenter {
+  text-align: center !important; }
+
+/*--- SIZES --*/
+h1 {
+  font-size: 2.75em; }
+
+h2 {
+  font-size: 2.2em;
+  line-height: 1em; }
+
+h3 {
+  font-size: 1.75em;
+  line-height: 1em; }
+
+h4 {
+  font-size: 1.5em;
+  line-height: 1em; }
+
+h5 {
+  font-size: 1.25em; }
+
+h6 {
+  font-size: 0.9em; }
+
+a {
+  text-decoration: none; }
+
+strong, b {
+  font-weight: 700; }
+
+button {
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.2em; }
+
+/* Lists */
+ul.ulBullet, ol.olNumber, ol.olLetter {
+  padding: 0 0 0 1.125em; }
+
+ul.ulBullet li, ul.ulBullet2Level li, ol.olNumber li, ol.olLetter li {
+  margin-left: 0.275em; }
+
+ul.ulBullet li {
+  list-style-type: disc; }
+
+ul.ulBullet2Level {
+  padding: 0 0 0 0.75em;
+  margin: 0 !important; }
+
+ul.ulBullet2Level li {
+  list-style-type: circle; }
+
+ol.olNumber li {
+  list-style-type: decimal !important; }
+
+ol.olLetter li {
+  list-style-type: upper-alpha !important; }
+
+/*---------VERTICAL-----------*/
+/*---------HORIZONTAL-------------*/
+/*---------HORIZONTAL PHONES---------------*/
+/* FONTICON */
+@font-face {
+  font-weight: normal;
+  font-style: normal;
+  font-family: 'ecoicons';
+  src: url("fonts/Linearicons-Free.eot");
+  src: url("fonts/Linearicons-Free.eot?#iefix") format("embedded-opentype"), url("fonts/Linearicons-Free.woff") format("woff"), url("fonts/Linearicons-Free.ttf") format("truetype"), url("fonts/Linearicons-Free.svg#ecoicons") format("svg"); }
+.lnr {
+  /* font-family: 'Linearicons-Free'; */
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'ecoicons';
+  display: inline-block;
+  text-align: center;
+  font-weight: 700; }
+
+.lnr-chevron-up::before {
+  content: "\e873"; }
+
+.lnr-chevron-left::before {
+  content: "\e875"; }
+
+.lnr-chevron-right::before {
+  content: "\e876"; }
+
+.lnr-chevron-down::before {
+  content: "\e874"; }
+
+.lnr-download::before {
+  content: "\e865"; }
+
+.lnr-envelope::before {
+  content: "\e818"; }
+
+.lnr-undo::before {
+  content: "\e860"; }
+
+.lnr-pencil::before {
+  content: "\e802"; }
+
+.lnr-cog::before {
+  content: "\e810"; }
+
+.lnr-layers::before {
+  content: "\e88e"; }
+
+.lnr-file-empty::before {
+  content: "\e81d"; }
+
+.lnr-checkmark-circle::before {
+  content: "\e87f"; }
+
+.lnr-thumbs-up::before {
+  content: "\e86d"; }
+
+.lnr-menu::before {
+  content: "\e871"; }
+
+.lnr-arrow-right::before {
+  content: "\e87a"; }
+
+.lnr-cross::before {
+  content: "\e870"; }
+
+/*# sourceMappingURL=typo.css.map */

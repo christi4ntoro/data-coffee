@@ -1,0 +1,60 @@
+<svg class="holoPad" width="100%" height="100%" viewBox="0 0 26 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="holo_pad">
+        <g id="base" transform="matrix(1,0,0,1,2.15221,18.4637)">
+            <g id="holo_lens_cover">
+                <g id="path-2" transform="matrix(0.949613,0,0,1,0.614389,0.596609)">
+                    <ellipse cx="10.308" cy="4.328" rx="10.308" ry="4.135" style="fill:rgb(34,119,131);"/>
+                </g>
+                <ellipse id="path-21" serif:id="path-2" cx="10.308" cy="4.328" rx="10.308" ry="4.135" style="fill:url(#_Linear1);"/>
+            </g>
+            <g id="holo_ring_lense" transform="matrix(1,0,0,1,1.01947,0.339823)">
+                <ellipse id="Oval-2" cx="9.361" cy="3.423" rx="7.037" ry="2.583" style="fill:rgb(88,220,220);"/>
+                <g id="Oval-21" serif:id="Oval-2" transform="matrix(0.962435,0,0,0.885321,0.61599,0.688825)">
+                    <path d="M9.361,0.84C13.245,0.84 16.543,1.776 16.392,3.195C16.223,4.771 13.028,5.944 9.361,6.007C5.478,6.072 2.324,4.849 2.324,3.423C2.324,1.997 5.477,0.84 9.361,0.84Z" style="fill:rgb(0,255,255);"/>
+                </g>
+                <g id="bolts">
+                    <ellipse id="Oval-7" cx="9.296" cy="7.298" rx="0.516" ry="0.258" style="fill-opacity:0.46;"/>
+                    <ellipse id="Oval-8" cx="14.978" cy="6.2" rx="0.516" ry="0.194" style="fill-opacity:0.46;"/>
+                    <ellipse id="Oval-9" cx="17.754" cy="4.909" rx="0.452" ry="0.194" style="fill-opacity:0.46;"/>
+                    <ellipse id="Oval-10" cx="18.141" cy="3.036" rx="0.323" ry="0.129" style="fill-opacity:0.46;"/>
+                    <ellipse id="Oval-11" cx="16.656" cy="1.744" rx="0.258" ry="0.129" style="fill-opacity:0.46;"/>
+                    <ellipse id="Oval-12" cx="11.685" cy="0.258" rx="0.194" ry="0.065" style="fill-opacity:0.46;"/>
+                    <ellipse id="Oval-13" cx="4.519" cy="0.71" rx="0.258" ry="0.129" style="fill-opacity:0.46;"/>
+                    <ellipse id="Oval-6" cx="3.228" cy="6.329" rx="0.516" ry="0.194" style="fill-opacity:0.46;"/>
+                    <ellipse id="Oval-5" cx="0.516" cy="4.521" rx="0.516" ry="0.194" style="fill-opacity:0.46;"/>
+                    <ellipse id="Oval-3" cx="1.872" cy="1.744" rx="0.323" ry="0.129" style="fill-opacity:0.46;"/>
+                    <ellipse id="Oval-4" cx="0.516" cy="2.842" rx="0.387" ry="0.194" style="fill-opacity:0.46;"/>
+                </g>
+            </g>
+        </g>
+        <g id="holo_glow" class="holo_glow" transform="matrix(1,0,0,1,2.15221,2.49204)">
+            <path d="M-1.691,-1.002C-1.77,-1.497 -1.432,-1.847 -0.936,-1.784L22.177,0.636C22.673,0.699 22.993,1.148 22.893,1.636L17.617,19.165L17.4,19.804C17.483,20.515 15.86,22.202 10.819,22.311C4.011,22.459 3.86,20.012 3.86,20.012L-1.691,-1.002Z" style="fill:url(#_Linear2);"/>
+        </g>
+        <g id="brights" class="brights">
+            <g transform="matrix(1,0,0,1,13.6197,-0.781045)">
+                <path d="M5.309,1.462L4.584,1.462L2.391,25.22L2.674,25.132L5.309,1.462Z" style="fill:url(#_Linear3);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,6.7016,-4.58471)">
+                <path d="M0.337,4.919L-1.441,4.919L2.391,25.22L2.674,25.132L0.337,4.919Z" style="fill:url(#_Linear4);"/>
+            </g>
+            <g transform="matrix(-1,0,0,1,9.54806,-1.41878)">
+                <path d="M8.235,2.618L7.51,2.618L2.391,25.22L2.674,25.132L8.235,2.618Z" style="fill:url(#_Linear5);"/>
+            </g>
+            <g transform="matrix(-1,0,0,1,14.9167,-1.41878)">
+                <path d="M5.799,1.798L0.907,1.798L2.493,21.589L3.068,21.577L5.799,1.798Z" style="fill:url(#_Linear6);"/>
+            </g>
+            <g transform="matrix(-1,0,0,1,21.9786,-0.141655)">
+                <path d="M-0.878,0.582L-2.874,0.964L2.79,21.689L3.119,21.449L-0.878,0.582Z" style="fill:url(#_Linear7);"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6.37915e-16,-10.4179,10.4179,6.37915e-16,10.6187,7.93523)"><stop offset="0" style="stop-color:rgb(55,175,144);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(13,166,211);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.347236,-19.7644,19.7644,0.347236,10.6196,19.8925)"><stop offset="0" style="stop-color:rgb(59,226,247);stop-opacity:0.59"/><stop offset="0.37" style="stop-color:rgb(60,166,246);stop-opacity:0.62"/><stop offset="1" style="stop-color:rgb(62,229,244);stop-opacity:0"/></linearGradient>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.79447,-17.5027,17.5027,1.79447,2.54179,25.0744)"><stop offset="0" style="stop-color:rgb(117,255,255);stop-opacity:0.78"/><stop offset="1" style="stop-color:white;stop-opacity:0"/></linearGradient>
+        <linearGradient id="_Linear4" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-2.26399,-14.3007,14.3007,-2.26399,2.54179,25.0744)"><stop offset="0" style="stop-color:rgb(117,255,255);stop-opacity:0.19"/><stop offset="1" style="stop-color:white;stop-opacity:0"/></linearGradient>
+        <linearGradient id="_Linear5" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(4.66042,-19.4749,19.4749,4.66042,2.54179,25.0744)"><stop offset="0" style="stop-color:rgb(0,255,255);stop-opacity:0.78"/><stop offset="1" style="stop-color:white;stop-opacity:0"/></linearGradient>
+        <linearGradient id="_Linear6" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.472825,-19.8515,19.8515,0.472825,2.82059,21.5976)"><stop offset="0" style="stop-color:white;stop-opacity:0.29"/><stop offset="1" style="stop-color:white;stop-opacity:0"/></linearGradient>
+        <linearGradient id="_Linear7" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-4.87703,-20.7409,20.7409,-4.87703,2.97853,21.5502)"><stop offset="0" style="stop-color:white;stop-opacity:0.18"/><stop offset="1" style="stop-color:white;stop-opacity:0"/></linearGradient>
+    </defs>
+</svg>

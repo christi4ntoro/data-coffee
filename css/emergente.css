@@ -1,0 +1,145 @@
+.dk-menu-dialog .closePopUp, .feedBox .txFeed button, .dk-menu-dialog,
+.vBeam {
+  position: absolute;
+}
+
+.feedBox, .dk-menu-dialog .boxPop,
+.vBeam .boxPop {
+  position: relative;
+}
+
+.dk-menu-dialog,
+.vBeam {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  z-index: 4;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.dk-menu-dialog.blur,
+.vBeam.blur {
+  backdrop-filter: blur(4px);
+}
+.dk-menu-dialog.white,
+.vBeam.white {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.dk-menu-dialog.color,
+.vBeam.color {
+  background-color: rgba(0, 9, 18, 0.5);
+}
+.dk-menu-dialog.none,
+.vBeam.none {
+  background-color: transparent;
+}
+.dk-menu-dialog .boxPop,
+.vBeam .boxPop {
+  width: 100%;
+  box-sizing: border-box;
+}
+.dk-menu-dialog .boxPop .image,
+.vBeam .boxPop .image {
+  border-radius: 0.5em 0 0 0.5em;
+}
+.dk-menu-dialog .boxPop .content,
+.vBeam .boxPop .content {
+  text-align: left;
+  padding: 1.75em 2em 0.75em;
+  border: 4px solid #fff;
+  border-radius: 0 1.4em;
+}
+
+.feedBox {
+  background-color: #fff;
+  border: 0.4px solid #fff;
+  border-radius: 1.5em 0;
+  -moz-box-shadow: inset 0 -0.25em 0.5em rgba(1, 61, 89, 0.3);
+  -webkit-box-shadow: inset 0 -0.25em 0.5em rgba(1, 61, 89, 0.3);
+  box-shadow: inset 0 -0.25em 0.5em rgba(1, 61, 89, 0.3);
+  padding: 1.75em 2.5em 3em;
+}
+.feedBox img {
+  width: 12em;
+  height: 8em;
+  margin-bottom: 1.25em;
+}
+.feedBox .icon {
+  background-color: transparent;
+  width: 50%;
+  margin: 1em auto 0.5em;
+  padding: 1em;
+}
+.feedBox.good {
+  background-color: #17b8d2;
+}
+.feedBox.good button {
+  color: #0085b0;
+}
+.feedBox.bad {
+  background-color: #67439a;
+}
+.feedBox.bad button {
+  color: #67439a;
+}
+.feedBox .txFeed {
+  margin: 0;
+}
+.feedBox .txFeed button {
+  left: 50%;
+  margin-left: -1.5em;
+  bottom: -2em;
+  width: 4em;
+  height: 4em;
+  border-radius: 2em;
+  background-color: #fff;
+  padding: 0.5em;
+}
+
+.dk-menu-dialog .dk-js-module {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1em;
+  min-height: 50px;
+}
+.dk-menu-dialog .dk-js-module:nth-child(2) {
+  margin-top: 20%;
+}
+.dk-menu-dialog .dk-js-module .submodule {
+  width: 2.7em;
+  height: 2.7em;
+  background-color: #fff;
+  color: #00cbd4;
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.4);
+  font-weight: 700;
+  border-radius: 50%;
+  margin: 0 0.2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dk-menu-dialog .dk-js-module a.submodule {
+  background-color: #00cbd4;
+  color: #fff;
+}
+.dk-menu-dialog .dk-js-module a.submodule:hover {
+  opacity: 1;
+}
+.dk-menu-dialog .closePopUp {
+  left: 50%;
+  top: 4em;
+  z-index: 10;
+  width: 3em;
+  height: 3em;
+  border-radius: 50%;
+  color: #fff;
+  background-color: transparent;
+  margin-left: -1.5em;
+  border: 3px solid #fff;
+}
+
+/*# sourceMappingURL=emergente.css.map */

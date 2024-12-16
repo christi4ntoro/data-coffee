@@ -1,0 +1,155 @@
+/*===VideoBEAM===*/
+.vBeam, .vBeamW, .vBeamNone {
+    height: 100%;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    z-index: 4;
+}
+.vBeam { background-color: rgba(109,136,143,0.95);}
+.vBeamW { background-color: rgba(255,255,255,0.65);}
+.vBeamNone { background-color: transparent;}
+
+.sHining { background-color: rgba(255,255,255,0.92);}
+
+/* ====POP==== */
+.popUp {
+    max-width: 65%;
+    margin: 0 auto;
+    position: relative;
+    padding: 5rem 2rem 1.5rem;
+    border-radius: .5em;
+    box-shadow: 1px 3px 0px rgba(0, 0, 0, .3);
+}
+@media screen and (max-width: 959px) {
+    .popUp {
+        padding: 5rem 1rem 1rem;
+    }
+}
+
+/* ===FEEDBACK=== */
+.feedB {
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+    padding: 1.5rem 2rem;
+    border-radius: .5em;
+    box-shadow: 1px 3px 0px rgba(0, 0, 0, .3);
+}
+@media screen and (max-width: 959px) {
+    .feedB {
+        padding: 1rem 1rem .25rem;
+    }
+}
+
+.feedB img {
+    width: 120px;
+}
+.feedB.feedPop {
+    padding: 5rem 2rem 1.5rem;
+}
+
+.feedBStar {
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+    padding: 0;
+    border-radius: .5em;
+    box-shadow: 1px 3px 0px rgba(0, 0, 0, .3);
+}
+
+/*===BOXC===*/
+.bgAllimg { width: 100%; height: 560px; position: absolute; top: 0; left: 0; margin: 0; padding: 0; background-color: rgba(0,0,0,.2);}
+.intro-slide { width: 100%; height: 560px; position: absolute; top: 0; left: 0; margin: 0; padding: 0; background-color: rgba(0,0,0,.2); z-index: 80; overflow: hidden;}
+
+
+.buttonclose {
+    position: absolute;
+    right: 10px;
+    top: -5px;
+}
+
+.buttonX {
+    background-color: rgba(1, 1, 1, 1);
+    border-radius: 30px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 400;
+    height: auto;
+    padding: 12px 20px;
+    transition: all 0.4s ease-in-out 0s;
+}
+.fsf-tnsf .buttonX {
+    background-color: #ab3624 !important;
+    box-shadow: 0 4px 0 rgba(0, 0, 0, 0.7);
+}
+
+/*===Fancybox===*/
+.cierraModal {
+    background: url("../../images/interfax/closeW.svg") no-repeat scroll center center transparent;
+    border: medium none;
+    cursor: pointer;
+    height: 50px;
+    margin: 1% auto 1%;
+    position: absolute;
+    left: 50%;
+    margin-left: -25px;
+    transition: all 0.3s ease 0s;
+    width: 50px;
+    z-index: 10000;
+    top:.5em;
+}
+
+.closePopUp {
+    background: url("../../images/interfax/closeW.svg") no-repeat scroll center center transparent;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 50%;
+    top: 1em;
+    margin-left: -25px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    z-index: 10000;
+}
+
+
+.paginadorFancy {
+    background-color: rgba(255, 255, 255, 0.2);
+    bottom: 0;
+    height: 60px;
+    padding: 10px 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+
+.paginadorFancy label {
+    border: 2px solid #fff;
+    border-radius: 2em;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    height: 1.5em;
+    line-height: 1.5em;
+    margin: 0.5em;
+    padding: 0.5em;
+    position: relative;
+    transition: all 0.3s ease 0s;
+    width: 1.5em;
+}
+
+.paginadorFancy input[type="radio"] {
+    display: none;
+}
+
+.paginadorActual {
+    background-color: rgba(255, 255, 255, 0.6);
+    font-weight: 800;
+}

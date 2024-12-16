@@ -1,0 +1,127 @@
+.container .dk-progress, .container #progressBar, .container .dk-prev,
+.container .dk-next,
+.container .dk-prev-false,
+.container .dk-next-false, .container .dk-breadcrumb {
+  position: fixed;
+}
+
+.container .dk-progress, .container .dk-breadcrumb {
+  z-index: 3;
+}
+
+body {
+  background-color: #F0F4EC;
+}
+
+.container > div {
+  background-color: #000;
+}
+.container #x-content {
+  background-color: transparent;
+}
+.container .dk-breadcrumb {
+  top: 1.25em;
+  right: 0;
+  margin: 0 1.5%;
+  height: 3em;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: transparent;
+  color: #fff;
+}
+.container .dk-breadcrumb.mission {
+  left: 4.5em;
+}
+.container .dk-breadcrumb.mission h4 {
+  padding: 0.25em 0.5em 0.25em 0.75em;
+}
+.container .dk-breadcrumb.mission .target {
+  background-color: #00606d;
+  color: #A6CF32;
+  display: flex;
+  align-items: center;
+  height: 2.5em;
+  border-radius: 3em;
+  margin-right: 0.25em;
+}
+.container .dk-breadcrumb h4 {
+  font-family: "Oswald", serif;
+  padding: 0.25em 1em 0.25em 0.5em;
+  margin: 0;
+  letter-spacing: 1px;
+  font-size: 1.25em;
+}
+.container .dk-breadcrumb #breadcrumb {
+  flex: auto;
+  text-align: start;
+  overflow: hidden;
+}
+.container .dk-breadcrumb .dk-icon-menu {
+  width: 2em;
+  height: 2em;
+  color: #fff;
+  border-radius: 0.7em 0 0.7em 0;
+  padding: 0.3em 0.2em;
+  transform: skew(-4deg);
+  background-image: linear-gradient(to bottom, rgba(48, 138, 255, 0.5), rgba(29, 96, 240, 0.5));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.container .dk-breadcrumb .dk-icon-menu i {
+  font-size: 1.75em;
+}
+.container .dk-breadcrumb .dk-icon-menu:hover {
+  box-shadow: 0 0 70px rgba(48, 138, 255, 0.8), 0 5px 20px rgba(48, 138, 255, 0.8), inset 0 1px #a8ecff, inset 0 -1px #a8ecff;
+}
+.container .dk-breadcrumb .dk-icon-menu:hover:before {
+  box-shadow: inset 0 0 50px 0 #a8ecff;
+}
+.container .dk-prev,
+.container .dk-next,
+.container .dk-prev-false,
+.container .dk-next-false {
+  top: 50%;
+  margin-top: -2em;
+  width: 4em;
+  height: 4em;
+  background-color: transparent;
+  color: #0085b0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container .dk-prev,
+.container .dk-prev-false {
+  left: 1em;
+}
+.container .dk-next,
+.container .dk-next-false {
+  right: 1em;
+}
+.container #progressBar {
+  bottom: 4px;
+  height: 5px;
+  width: 100%;
+  background-color: #fff;
+}
+.container #progressBar div {
+  width: 0;
+  height: 100%;
+  background-color: #00ffff;
+  box-shadow: 0 0 4px 0 #0ff, 0 0 4px 0 #0ff inset;
+  line-height: 22px;
+  text-align: right;
+}
+.container .dk-progress {
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.4);
+  background-color: #d0ecec;
+  bottom: 2.5%;
+  right: 1%;
+  border-radius: 50%;
+}
+
+/*# sourceMappingURL=interfax.css.map */

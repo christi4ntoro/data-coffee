@@ -1,0 +1,50 @@
+.allquiz { }
+/*.question { font-size: 18px;}*/
+.answers { padding-bottom: 12px;}
+
+/*ACT MULTIPLE OPTION*/
+.x-selection {}
+/* .correct { border: 2px solid #8cb715 !important; border-radius: 6px;}
+.notcorrect { border: 2px solid #d82432 !important; border-radius: 6px;} */
+
+/*ACT ORDER*/
+ul.undecoratedlist { list-style: none; margin: 0; padding: 0;}
+li.hasborder { border: 1.5px solid #74777d; border-radius: 3px; margin: 2px -25px; padding: 5px 5px 5px 40px; cursor: pointer;}
+.orderdragging { background: #17172b; color: #fff; border-radius: 6px;}
+.ordergood { background: url('../images/interfax/order_done.png') no-repeat scroll 0.25em center / 30px 30px transparent !important;}
+.orderbad { background: url('../images/interfax/order_bad.png') no-repeat scroll 0.25em center / 30px 30px transparent !important;}
+
+/*ACT ARRASTRE*/
+.resetPosition { left: 0px !important; top: 0px !important;}
+.isdroppable { border: 1.5px solid #74777d; border-radius: 3px; height: auto; padding: 2px 3px; margin-right: 4px; width: 20px;}
+.isdraggable { position: relative !important;}
+
+.indrag { border-radius: 3px; color: #fff; padding: 2px 8px;}
+.dragBad { border: 2px solid #e35971 !important; color: #e35971 !important;}
+/*--*/
+.dropparagraph .x-drophover { background: rgba(23,23,43,0.7) !important; border: 1.5px solid #17172b !important; color: #fff !important; border-radius: 3px;}
+.dropparagraph .nice { font-weight: 400; font-style: italic;}
+/*--*/
+.dropbigzone .x-drophover { background: rgba(23,23,43,0.7) !important; border: 1.5px solid #17172b !important; color: #fff !important; border-radius: 3px;}
+/*--*/
+.drop_area { border: 2px solid #17172b; padding: 10px;}
+
+/*ACT MATCH*/
+.matchbox { padding: 0.25em 0.5em; border: 2px solid #ecf0f1; border-radius: 6px; margin-top: 0.25em; background: #fff;}
+.matchDrop { border: 2px dotted #e67e22; background: #e67e22; color: #fff; margin: 0.125em 0; padding: 0.25em; border-radius: 6px;}
+.matchbox_final { padding: 0.25em 0.5em; margin-bottom: 15px; color: #1a5f66; box-shadow: 0 0 0 2px #70b8b3 inset; border-radius: 6px; margin-top: 0.25em;}
+ul.matchbox_final { padding: 10px 0;}
+.matchbox_final li {padding: 8px 15px;}
+
+/*Feedback*/
+.feedback .maru,.feedback .batsu { padding: 2em 3em 1em; width: 560px;}
+.feedback { color: #fff !important;}
+.feedback h3 { margin-top: 0; }
+.feedback h2 { font-weight: 400; margin: -5px 0 10px;}
+.feedback .maru { background: #8cb715;}
+.feedback .batsu { background: #e63946;}
+
+.q-question{display:none;}
+.q-option{cursor: pointer;}
+.q-selected{border: 1px solid green;}
+#q-next{cursor: pointer;}
